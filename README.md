@@ -1,6 +1,6 @@
 # ANDProjects
 
-### [Nanodegree Summary](https://github.com/mikesprague/udacity-nanodegrees#android-developer-nanodegree)
+### [About the Nanodegree](https://github.com/mikesprague/udacity-nanodegrees#android-developer-nanodegree)
 
 ## My Android Nanodegree Projects 2018 (in order):
 
